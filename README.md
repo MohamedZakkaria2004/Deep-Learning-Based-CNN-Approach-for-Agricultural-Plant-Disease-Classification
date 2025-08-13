@@ -143,13 +143,13 @@ t```
 ```
 ## 📈 Future Improvements
 
-*Add data augmentation for better generalization.
+- Add data augmentation for better generalization.
 
-*Increase dataset diversity (lighting, background, species).
+- Increase dataset diversity (lighting, background, species).
 
-*Experiment with transfer learning (MobileNetV3, EfficientNet).
+- Experiment with transfer learning (MobileNetV3, EfficientNet).
 
-*Deploy lightweight version to mobile or edge devices.
+- Deploy lightweight version to mobile or edge devices.
 
 
 
