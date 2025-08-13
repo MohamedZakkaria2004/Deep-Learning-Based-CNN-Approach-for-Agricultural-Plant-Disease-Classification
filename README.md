@@ -98,10 +98,10 @@ history = cnn.fit(
 cnn.save('trained_plant_disease_model.keras')
 ```
 
--Loss function: Categorical Cross-Entropy
--Optimizer: Adam (lr=0.0001)
--Batch size: 32
--Epochs: 10
+- Loss function: Categorical Cross-Entropy
+- Optimizer: Adam (lr=0.0001)
+- Batch size: 32
+- Epochs: 10
 
 ## 📊 Results
 Test set performance:
