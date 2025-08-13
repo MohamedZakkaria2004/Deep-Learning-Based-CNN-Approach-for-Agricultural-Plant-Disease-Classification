@@ -130,7 +130,8 @@ cd Deep-Learning-Based-CNN-Approach-for-Agricultural-Plant-Disease-Classificatio
 
 3. Install dependencies
 
-```pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 4. Train the model
