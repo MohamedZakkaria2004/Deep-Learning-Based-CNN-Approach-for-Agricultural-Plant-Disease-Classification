@@ -121,8 +121,7 @@ Confusion Matrix:
 
 1. Clone the repository
 
-```git clone [https://github.com/yourusername/plant-disease-cnn.git
-cd plant-disease-cnn](https://github.com/MohamedZakkaria2004/Deep-Learning-Based-CNN-Approach-for-Agricultural-Plant-Disease-Classification)
+```git clone https://github.com/MohamedZakkaria2004/Deep-Learning-Based-CNN-Approach-for-Agricultural-Plant-Disease-Classification
 ```
 
 2. Prepare dataset in the directory structure described above.
@@ -133,12 +132,14 @@ cd plant-disease-cnn](https://github.com/MohamedZakkaria2004/Deep-Learning-Based
 
 4. Train the model
 
-```python Training & Validation.py
+```bash
+python Training & Validation.py --dataset_path ./Dataset --epochs 10 --batch_size 32 --lr 0.0001 Training & Validation.py
 ```
 
 5. Test the model
 
-```python Testing.py
+```python Testing.py --model_path ./trained_plant_disease_model.keras --dataset_path ./Dataset/Test/Test
+
 ```
 
 ## 📈 Future Improvements
