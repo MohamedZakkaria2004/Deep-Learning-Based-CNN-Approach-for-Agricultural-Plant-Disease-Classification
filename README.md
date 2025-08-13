@@ -140,6 +140,7 @@ cd plant-disease-cnn
 
 ```python Testing.py
 ```
+
 ## 📈 Future Improvements
 
 - Add data augmentation for better generalization.
