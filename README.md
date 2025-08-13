@@ -121,8 +121,8 @@ Confusion Matrix:
 
 1. Clone the repository
 
-```git clone https://github.com/yourusername/plant-disease-cnn.git
-cd plant-disease-cnn
+```git clone [https://github.com/yourusername/plant-disease-cnn.git
+cd plant-disease-cnn](https://github.com/MohamedZakkaria2004/Deep-Learning-Based-CNN-Approach-for-Agricultural-Plant-Disease-Classification)
 ```
 
 2. Prepare dataset in the directory structure described above.
